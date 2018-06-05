@@ -1,3 +1,3 @@
 # python-bootcamp
-My Python Boot-camp Files
+My Python Bootcamp Files
 
