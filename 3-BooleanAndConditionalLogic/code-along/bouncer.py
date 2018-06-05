@@ -21,9 +21,3 @@ if age:
     print("Sorry, you cant come in.")
 else:
   print("Please enter an age!")
-
-calling_in_sick = None
-
-if sick_days > 0 and actually_sick:
-  calling_in_sick = True
-elif sick_days > 0 and kinda_sick and hate_your_job:
