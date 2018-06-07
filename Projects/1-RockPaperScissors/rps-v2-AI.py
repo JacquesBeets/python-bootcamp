@@ -62,3 +62,4 @@ elif player_wins == computer_wins:
 else:
   print("OH NO! COMPUTER WON!")
 # print(f"=====FINAL SCORES!===== \nPLAYER: {player_wins} ||||| COMPUTER: {computer_wins} \n=====FINAL SCORES!=====")
+input("Press enter to exit")

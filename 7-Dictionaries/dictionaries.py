@@ -54,7 +54,7 @@ cat2 = dict(name="Simba", age=8, cute=True)
 # print(new_user)
 
 # .get
-# print(cat.get('name')) # when using this method it will not throw an error if it does no exist as with cat['name']
+# print(cat.get('name')) # when using this method it will not throw an error if it does not exist as with cat['name']
 
 # =================================
 # EXCERSIZES
